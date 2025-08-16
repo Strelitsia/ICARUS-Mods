@@ -17,7 +17,7 @@ Features:
 - No weather exposure
 - Infinite item durability
 
-
+##
 
 # QOL_Living
 Quality of Life Living adds some small changes for a better and easier experience while playing.
