@@ -1,7 +1,7 @@
-# This repo is dedicated for my ICARUS mods
+This repo is dedicated for my ICARUS mods
 
 
-## Strel's God Mode
+# Strel's God Mode
 It's pretty self explanatory
 
 Features:
@@ -22,7 +22,7 @@ Features:
 
 
 
-## QOL_Living
+# QOL_Living
 Quality of Life Living adds some small changes for a better and easier experience while playing.
 *USE THIS MOD IF YOU WANT TO HAVE A VERY CHILL PLAYTROUGH*
 
