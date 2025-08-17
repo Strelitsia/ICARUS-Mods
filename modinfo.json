@@ -21,6 +21,17 @@
         "pak": "https://github.com/Strelitsia/ICARUS-Mods/raw/refs/heads/main/Strel-God-Mode_P.pak"
       },
       "readmeURL": "https://raw.githubusercontent.com/Strelitsia/ICARUS-Mods/refs/heads/main/README.md"
+    },
+    {
+      "name": "Strel's Instant Fish",
+      "author": "Strelitsia_",
+      "version": "1.0",
+      "compatibility": "all",
+      "description": "Makes catching fish a breeze! It modifies the Refined Wood Fishing Rod for fish to instantly bite.",
+      "files": {
+        "pak": "https://github.com/Strelitsia/ICARUS-Mods/raw/refs/heads/main/Strel-Instant-Fish_P.pak"
+      },
+      "readmeURL": "https://raw.githubusercontent.com/Strelitsia/ICARUS-Mods/refs/heads/main/README.md"
     }
   ]
 }
