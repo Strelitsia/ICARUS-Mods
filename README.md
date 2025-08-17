@@ -1,5 +1,15 @@
 This repo is dedicated for my ICARUS mods
 
+# Strel's Instant Fish
+Makes catching fish a breeze!
+
+Features:
+
+- It modifies the refined wood fishing rod for fish to instantly bite.
+
+
+
+
 
 # Strel's God Mode
 It's pretty self explanatory
