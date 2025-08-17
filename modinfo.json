@@ -9,7 +9,7 @@
       "files": {
         "pak": "https://github.com/Strelitsia/ICARUS-Mod-QOL_Living/archive/refs/tags/v1.0.0.zip"
       },
-      "readmeURL": "https://raw.githubusercontent.com/Strelitsia/ICARUS-Mod-QOL_Living/refs/heads/main/README.md"
+      "readmeURL": "https://raw.githubusercontent.com/Strelitsia/ICARUS-Mods/refs/heads/main/README.md"
     },
     {
       "name": "Strel's God Mode",
@@ -20,7 +20,7 @@
       "files": {
         "pak": "https://github.com/Strelitsia/ICARUS-Mods/raw/refs/heads/main/Strel-God-Mode_P.pak"
       },
-      "readmeURL": "https://raw.githubusercontent.com/Strelitsia/ICARUS-Mod-QOL_Living/refs/heads/main/README.md"
+      "readmeURL": "https://raw.githubusercontent.com/Strelitsia/ICARUS-Mods/refs/heads/main/README.md"
     }
   ]
 }
